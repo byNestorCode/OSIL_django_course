@@ -7,5 +7,23 @@ The Open Source Innovation Lab is an instance specialized in attracting and inte
 - See more: https://www.dedica.org.mx/
 
 # 💻 Requirements:
-- 🐍 Python 3.9.11: https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
--  📄 XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe
+- 🐍 Python 3.9.11 - 3.9.13: https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
+-  📄 PostgreSQL: https://sbp.enterprisedb.com/getfile.jsp?fileid=1258478
+
+
+
+# 🖥️ Activate Python venv:
+
+1. To install the virtual enviroment, we need go to the project folder and type the next command:
+
+```python
+python -m venv venv
+```
+
+2. next, we need activate the virtual enviroment, please type the next command:
+
+
+```python
+.\venv\Scripts\activate
+```
+
