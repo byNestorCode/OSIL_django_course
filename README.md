@@ -27,3 +27,13 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
+# 📄 Install requirements.txt:
+
+1. Go to workspace path, then run the next command:
+
+```python
+pip install -r requirements.txt 
+```
+
+2. wait...
+
