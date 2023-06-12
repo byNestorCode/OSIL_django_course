@@ -14,13 +14,19 @@ The Open Source Innovation Lab is an instance specialized in attracting and inte
 
 # 🖥️ Activate Python venv:
 
-1. To install the virtual enviroment, we need go to the project folder and type the next command:
+1. Install virtuelenv:
+
+```python
+pip install virtualenv
+```
+
+2. To install the virtual enviroment, we need go to the project folder and type the next command:
 
 ```python
 python -m venv venv
 ```
 
-2. next, we need activate the virtual enviroment, please type the next command:
+3. next, we need activate the virtual enviroment, please type the next command:
 
 
 ```python
