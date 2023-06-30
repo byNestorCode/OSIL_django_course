@@ -6,11 +6,22 @@ The Open Source Innovation Lab is an instance specialized in attracting and inte
 
 - See more: https://www.dedica.org.mx/
 
+## I'll tell you a little about the project:
+The project consists of a three-part architecture:
+
+1. 🔙 Backend: The backend is developed in python using django framework.
+2. 🔛 APIRest: The API is developed with a django module called "django rest framework".
+3. 🔜 Frontend: The frontend is developed with React through Next.js
+
 # 💻 Requirements:
-- 🐍 Python 3.9.11 - 3.9.13: https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
+
+- 🐍 Python 3.11.4: https://www.python.org/ftp/python/3.11.3/python-3.11.4-amd64.exe
+
 -  📄 PostgreSQL: https://sbp.enterprisedb.com/getfile.jsp?fileid=1258478
 
-
+- 📐 Django 4.2.2:
+    - easy, will install django later...
+        - If you want to know some else about django, take a look the documentation: https://docs.djangoproject.com/en/4.2/
 
 # 🖥️ Activate Python venv:
 
