@@ -19,7 +19,7 @@ The project consists of a three-part architecture:
 
 -  📄 PostgreSQL: https://sbp.enterprisedb.com/getfile.jsp?fileid=1258478
 
-- 📐 Django 4.2.2:
+- 📐 Django 4.2.5:
     - easy, will install django later...
         - If you want to know some else about django, take a look the documentation: https://docs.djangoproject.com/en/4.2/
 
